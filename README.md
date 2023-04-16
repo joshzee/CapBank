@@ -1,2 +1,3 @@
 # CapBank
-Modern UI Bank Landing Page Built from Scratch with React
+
+Modern UI: Bank Landing Page Built from Scratch with React and Tailwind.
